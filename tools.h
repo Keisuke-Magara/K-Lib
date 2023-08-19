@@ -1,0 +1,1 @@
+int eq_reg(char* target, char* regular_expression);
